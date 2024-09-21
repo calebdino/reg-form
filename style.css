@@ -15,8 +15,9 @@ body {
     width: 400px;
 }
 
-h2 {
+h1 {
     text-align: center;
+    color: #333;
 }
 
 form {
@@ -36,7 +37,7 @@ input, select {
 }
 
 input[type="submit"] {
-    background-color: #28a745;
+    background-color: #233784;
     color: white;
     border: none;
     cursor: pointer;
@@ -44,5 +45,5 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #218838;
+    background-color: #0b185b;
 }
